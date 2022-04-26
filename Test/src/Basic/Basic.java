@@ -10,6 +10,7 @@ public class Basic {
 		Basic b=new Basic();
 		System.out.println(b.getLength("hello"));
 		System.out.println("HELLO DEAR");
+
 		}
 	}
 
